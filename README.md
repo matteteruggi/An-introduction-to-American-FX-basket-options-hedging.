@@ -1,5 +1,5 @@
 # An-introduction-to-American-FX-basket-options-hedging.
-An introduction to American FX basket options hedging: an application to a eur-denominated usd and cnh basket during flight to quality times
+An introduction to American FX basket options hedging: an application to a eur-denominated usd and cnh basket during flight to quality times.
 Basket options play a relevant role in corporate finance since they allow a more
 bona fide hedging, allowing to trade the correlation between a couple of assets. Basket options are,
 in general, index options or currency options: the elephant in the room is the correlation between the
